@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.459052ce.css",
+    "main.js": "/static/js/main.893fb13b.js",
+    "static/media/avatar.png": "/static/media/avatar.89dcfdfae3cdc0a97fc3.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.e01ef981cbb4996e7a70.ttf",
+    "static/media/CupertinoIcons.ttf": "/static/media/CupertinoIcons.c6983ac4b946f52b6e63.ttf",
+    "static/media/search.svg": "/static/media/search.72ca1c30a6b6479b386800b2ec6fecda.svg",
+    "index.html": "/index.html",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.31d6cfe0d16ae931b73c.ttf",
+    "main.459052ce.css.map": "/static/css/main.459052ce.css.map",
+    "main.893fb13b.js.map": "/static/js/main.893fb13b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.459052ce.css",
+    "static/js/main.893fb13b.js"
+  ]
+}
